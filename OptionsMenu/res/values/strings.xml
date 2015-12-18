@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, OptionsMenuDemo!</string>
+	<string name="app_name">OptionsMenu</string>
+	<string name="menu_about">About</string>
+	<string name="menu_exit">Exit</string>
+	<string name="about_title">About Android</string>
+	<string name="about_msg">Welcome to Android World!</string>
+	<string name="confirm">OK</string>
+</resources>

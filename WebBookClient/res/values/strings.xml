@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebBookClient</string>
+    <string name="booklist">書籍列表</string>
+    <string name="nobook">沒有書籍資料</string>
+    <string name="submit">確認</string>
+    <string name="title">書籍名稱</string>
+    <string name="author">作者名</string>
+	<string name="publisher">出版社</string>
+</resources>

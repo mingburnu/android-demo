@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChangeColor</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">紅</string>
+    <string name="blue">藍</string>
+    <string name="green">綠</string>
+
+</resources>

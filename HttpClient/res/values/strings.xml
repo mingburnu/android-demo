@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">取得Google網站原始碼</string>
+    <string name="app_name">HttpClient</string>
+    <string name="btn_lbl1">使用URLConnection連接Google</string>
+    <string name="btn_lbl2">使用HttpClient連接Google</string>
+    <string name="ok">連接Google成功!</string>
+    <string name="fail">連接Google失敗!</string>
+</resources>

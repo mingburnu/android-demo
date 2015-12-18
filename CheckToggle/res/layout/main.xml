@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<CheckBox
+		android:id="@+id/married"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/married" />
+
+	<CheckBox
+	    android:id="@+id/checkBox1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/poor" />
+	
+	<ToggleButton
+		android:id="@+id/job"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textOn="@string/working"
+		android:textOff="@string/notworking" />
+
+	<ToggleButton
+	    android:id="@+id/toggleButton1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:textOff="@string/blue"
+	    android:textOn="@string/green" />
+	
+	<TextView
+		android:id="@+id/output"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text=""	/>
+	
+</LinearLayout>

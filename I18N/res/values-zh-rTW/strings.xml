@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, I18N!</string>
+    <string name="app_name">I18N</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">离开</string>
+    <string name="about_title">关于Android</string>
+    <string name="about_msg">欢迎来到Android的世界!</string>
+    <string name="confirm">确定</string>
+
+</resources>

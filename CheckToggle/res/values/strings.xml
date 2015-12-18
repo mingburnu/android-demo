@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheckToggle</string>
+    <string name="married">已婚</string>
+    <string name="single">未婚</string>
+    <string name="rich">富裕</string>
+    <string name="poor">貧窮</string>
+    <string name="working">有工作</string>
+    <string name="notworking">待業中</string>
+    <string name="blue">藍</string>
+    <string name="green">綠</string>
+</resources>
